@@ -1,0 +1,4 @@
+mocahawesome-report
+.cfignore
+node_modules
+logs
